@@ -3,17 +3,8 @@ Inove Escuela de Código\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
-# Archivos! [Python]
-En este repositorio encontrarán los siguientes archivos:
-
-__Ejemplos que el profesor mostrará en clase__\
-ejemplos_clase.py
-
-__Ejercicios para que el alumno desarrolle durante la clase__\
-ejercicios_clase.py
-
-__Ejercicios para que el alumno profundice sobre el tema durante la semana__\
-ejercicios_practica.py
+# Unit test! [Python]
+En este repositorio tiene el fin de poner en prática los conceptos de "unit test" explicados en clase.
 
 # Consultas
 alumnos@inove.com.ar
